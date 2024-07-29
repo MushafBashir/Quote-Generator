@@ -1,0 +1,25 @@
+.footer{
+    background-color:rgb(44, 43, 43);
+}
+ul{
+    list-style-type: none;
+}
+.footer{
+    color:white;
+}
+.content h1{
+    text-align:center;
+}
+.kk{
+    text-align: center;
+}
+
+#clear{
+    display:none;
+    margin:0px auto;
+}
+
+.content{
+    height:500px;
+    margin-top:20px;
+}
